@@ -7,4 +7,4 @@
   - gcc
   - git
   - ntpdate
-
+  - ntp
